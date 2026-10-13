@@ -99,3 +99,5 @@ staynest-hotel-booking/
 - [ ] **Milestone 6**: Booking engine, availability checking, and concurrency control.
 - [ ] **Milestone 7**: Admin dashboard & management interfaces.
 - [ ] **Milestone 8**: External integrations (Cloudinary, email notifications, payment checkout).
+
+# Hotel_booking_system
